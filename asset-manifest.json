@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/natura-adopt/%20/static/css/main.073c9b0a.css",
-    "main.js": "/natura-adopt/%20/static/js/main.08cfb820.js",
-    "static/js/787.8d037d94.chunk.js": "/natura-adopt/%20/static/js/787.8d037d94.chunk.js",
-    "static/media/logo.svg": "/natura-adopt/%20/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/natura-adopt/%20/index.html",
-    "main.073c9b0a.css.map": "/natura-adopt/%20/static/css/main.073c9b0a.css.map",
-    "main.08cfb820.js.map": "/natura-adopt/%20/static/js/main.08cfb820.js.map",
-    "787.8d037d94.chunk.js.map": "/natura-adopt/%20/static/js/787.8d037d94.chunk.js.map"
+    "main.css": "/%20/static/css/main.073c9b0a.css",
+    "main.js": "/%20/static/js/main.c98dd61a.js",
+    "static/js/787.8d037d94.chunk.js": "/%20/static/js/787.8d037d94.chunk.js",
+    "static/media/logo.svg": "/%20/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/%20/index.html",
+    "main.073c9b0a.css.map": "/%20/static/css/main.073c9b0a.css.map",
+    "main.c98dd61a.js.map": "/%20/static/js/main.c98dd61a.js.map",
+    "787.8d037d94.chunk.js.map": "/%20/static/js/787.8d037d94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.08cfb820.js"
+    "static/js/main.c98dd61a.js"
   ]
 }
